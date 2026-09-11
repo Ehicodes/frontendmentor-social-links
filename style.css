@@ -83,7 +83,7 @@ body{
     font-weight: 600;
     border-radius: .5rem;
     background-color: hsl(0, 0%, 20%);
-    transition: all .3s ease-in-out;
+    transition: all .1s ease-in-out;
 }
 
 .social-card__link:hover{
