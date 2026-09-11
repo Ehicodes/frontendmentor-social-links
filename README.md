@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [(frontendentor-social-links.netlify.app)]
+- Solution URL: [https://www.frontendmentor.io/solutions/flexbox-positioning-NRrVh-rKua]
+- Live Site URL: [frontendentor-social-links.netlify.app]
 
 ## My process
 
